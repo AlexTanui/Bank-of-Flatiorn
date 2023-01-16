@@ -87,9 +87,9 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
-[Fork](https://github.com/AlexTanui/Flatacuties-) the repo on GitHub and 
+[Fork](https://github.com/AlexTanui/Bank-of-Flatiorn) the repo on GitHub and 
 
-clone   ``git clone https://github.com/AlexTanui/Flatiron-movie `` 
+clone   ``git clone https://github.com/AlexTanui/Bank-of-Flatiorn `` 
 
 to set the project to your own machine
 * Commit changes to your own branch
