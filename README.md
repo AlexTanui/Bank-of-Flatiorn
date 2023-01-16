@@ -11,10 +11,9 @@ This application was built with the following technologies:
 
 ## Running The Live Hosted Application
 
-* open this [link](https://lex-kitchen-kenya.netlify.app/) on your browser to access the live web application
+* open this [link](https://bank-of-flartiorn.netlify.app/) on your browser to access the live web application
 * you can also follow the link on the right side of the repository below the discription
-* on the browser you will need to enter your credentials that is user name and password to access the meals. 
-* search for your meal and click recipe to get cooking instructions.
+* on the browser you will need to search in by typing in order to filder transaction by description and add new transaction on the form below
 
 ## Installation
 
@@ -28,7 +27,7 @@ Open a terminal / command line interface on your computer
 
 * Clone the repo by using the following to create a copy on your local machine:
 
- `` git clone https://github.com/AlexTanui/Lex-Kitchen-Kenya``
+ `` git clone https://github.com/AlexTanui/Bank-of-Flatiorn``
 * Change directory to the repo folder:
 
  `` cd /mnt/d..``

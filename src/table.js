@@ -3,10 +3,10 @@ import React, { useState, useEffect } from "react";
 function PostForm() {
   // const url =""
   const [data, setData] = useState({
-    cartegory: "",
-      description: "",
-      amount: "",
-      date: "",
+    // cartegory: "",
+    //   description: "",
+    //   amount: "",
+    //   date: "",
   });
 }
 
@@ -14,10 +14,10 @@ function handleSubmit(e) {
   e.preventDefault();
   const addTransaction = {
     add: {
-      cartegory: cartegory,
-      description: description,
-      amount: amount,
-      date: date,
+      // cartegory: cartegory,
+      // description: description,
+      // amount: amount,
+      // date: date,
     },
   };
   fetch("https://api.npoint.io/13a31eb700e6e889ce8e/transactions/", {
