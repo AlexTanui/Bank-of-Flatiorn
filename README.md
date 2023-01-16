@@ -114,6 +114,6 @@ Please use specific bugs and errors.
 
 
 Happy coding😎 
-## Available Scripts
+
 
 
