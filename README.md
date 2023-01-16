@@ -1,8 +1,43 @@
-# Getting Started with Create React App
+## Discription
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bank of Flatiorn is an application that allows users to search Transactions by filtering description of transactions made to the Bank and other transactions.
 
-## Available Scripts
+## Built with
+This application was built with the following technologies: 
+
+* React JS
+* Bootstrap
+  
+
+## Running The Live Hosted Application
+
+* open this [link](https://lex-kitchen-kenya.netlify.app/) on your browser to access the live web application
+* you can also follow the link on the right side of the repository below the discription
+* on the browser you will need to enter your credentials that is user name and password to access the meals. 
+* search for your meal and click recipe to get cooking instructions.
+
+## Installation
+
+* In order for you to use the content on this repo ensure you have the following:
+
+A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
+nodejs 9.0+
+
+* To intall this challengeor use in your computer you can either ``clone`` or ``fork`` the project
+Open a terminal / command line interface on your computer
+
+* Clone the repo by using the following to create a copy on your local machine:
+
+ `` git clone https://github.com/AlexTanui/Lex-Kitchen-Kenya``
+* Change directory to the repo folder:
+
+ `` cd /mnt/d..``
+ 
+*  Open it in Visual Studio Code
+
+  ``code .``
+
+## Usage
 
 In the project directory, you can run:
 
@@ -35,36 +70,51 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* To get the backend started you need to run
 
-## Learn More
+  ``json-server --watch db.json``
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ * you can test your  server by visiting this route in the browser:
+ 
+  ``https://www.themealdb.com/api/json/v1/1/filter.php?i=``  or from n-point ``https://api.npoint.io/ef01e2173617e99ef7c1/meals/``
+  
+* Find the index.html  to view on browser, right-click on it, and choose Open with from the menu. You will see a full list of apps that you can use to run your file. Your default browser will be at the top of the list.
+* Select Google Chrome from the list, and view your file in the browser.
+* on the browser, enter log-in details and click log-in button
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
-### Analyzing the Bundle Size
+[Fork](https://github.com/AlexTanui/Flatacuties-) the repo on GitHub and 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+clone   ``git clone https://github.com/AlexTanui/Flatiron-movie `` 
 
-### Making a Progressive Web App
+to set the project to your own machine
+* Commit changes to your own branch
+* Push your work back up to your fork
+* Submit a Pull request so that we can review your changes
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Issues
 
-### Advanced Configuration
+Feel free to submit issues and enhancement requests.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Please use specific bugs and errors.
 
-### Deployment
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[IST](https://opensource.org/licenses/ISC)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Author
+
+[Alex Tanui](https://github.com/AlexTanui)
+
+
+Happy coding😎 
+## Available Scripts
+
+
